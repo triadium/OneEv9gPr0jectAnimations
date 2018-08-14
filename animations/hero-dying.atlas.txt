@@ -1,0 +1,223 @@
+
+hero-dying.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hero-dying_0
+  rotate: false
+  xy: 2, 2
+  size: 89, 165
+  orig: 89, 165
+  offset: 0, 0
+  index: -1
+hero-dying_1
+  rotate: false
+  xy: 2, 2
+  size: 89, 165
+  orig: 89, 165
+  offset: 0, 0
+  index: -1
+hero-dying_10
+  rotate: false
+  xy: 2, 2
+  size: 89, 165
+  orig: 89, 165
+  offset: 0, 0
+  index: -1
+hero-dying_11
+  rotate: false
+  xy: 2, 2
+  size: 89, 165
+  orig: 89, 165
+  offset: 0, 0
+  index: -1
+hero-dying_12
+  rotate: false
+  xy: 2, 2
+  size: 89, 165
+  orig: 89, 165
+  offset: 0, 0
+  index: -1
+hero-dying_2
+  rotate: false
+  xy: 2, 2
+  size: 89, 165
+  orig: 89, 165
+  offset: 0, 0
+  index: -1
+hero-dying_3
+  rotate: false
+  xy: 2, 2
+  size: 89, 165
+  orig: 89, 165
+  offset: 0, 0
+  index: -1
+hero-dying_4
+  rotate: false
+  xy: 2, 2
+  size: 89, 165
+  orig: 89, 165
+  offset: 0, 0
+  index: -1
+hero-dying_5
+  rotate: false
+  xy: 2, 2
+  size: 89, 165
+  orig: 89, 165
+  offset: 0, 0
+  index: -1
+hero-dying_6
+  rotate: false
+  xy: 2, 2
+  size: 89, 165
+  orig: 89, 165
+  offset: 0, 0
+  index: -1
+hero-dying_7
+  rotate: false
+  xy: 2, 2
+  size: 89, 165
+  orig: 89, 165
+  offset: 0, 0
+  index: -1
+hero-dying_8
+  rotate: false
+  xy: 2, 2
+  size: 89, 165
+  orig: 89, 165
+  offset: 0, 0
+  index: -1
+hero-dying_9
+  rotate: false
+  xy: 2, 2
+  size: 89, 165
+  orig: 89, 165
+  offset: 0, 0
+  index: -1
+hero-dying_13
+  rotate: false
+  xy: 93, 2
+  size: 89, 165
+  orig: 89, 165
+  offset: 0, 0
+  index: -1
+hero-dying_14
+  rotate: false
+  xy: 184, 2
+  size: 89, 165
+  orig: 89, 165
+  offset: 0, 0
+  index: -1
+hero-dying_15
+  rotate: false
+  xy: 275, 2
+  size: 89, 165
+  orig: 89, 165
+  offset: 0, 0
+  index: -1
+hero-dying_16
+  rotate: false
+  xy: 366, 2
+  size: 89, 165
+  orig: 89, 165
+  offset: 0, 0
+  index: -1
+hero-dying_17
+  rotate: false
+  xy: 457, 2
+  size: 89, 165
+  orig: 89, 165
+  offset: 0, 0
+  index: -1
+hero-dying_18
+  rotate: false
+  xy: 548, 2
+  size: 89, 165
+  orig: 89, 165
+  offset: 0, 0
+  index: -1
+hero-dying_19
+  rotate: false
+  xy: 639, 2
+  size: 89, 165
+  orig: 89, 165
+  offset: 0, 0
+  index: -1
+hero-dying_20
+  rotate: false
+  xy: 730, 2
+  size: 89, 165
+  orig: 89, 165
+  offset: 0, 0
+  index: -1
+hero-dying_21
+  rotate: false
+  xy: 821, 2
+  size: 89, 165
+  orig: 89, 165
+  offset: 0, 0
+  index: -1
+hero-dying_22
+  rotate: false
+  xy: 912, 2
+  size: 89, 165
+  orig: 89, 165
+  offset: 0, 0
+  index: -1
+hero-dying_23
+  rotate: false
+  xy: 2, 169
+  size: 89, 165
+  orig: 89, 165
+  offset: 0, 0
+  index: -1
+hero-dying_24
+  rotate: false
+  xy: 93, 169
+  size: 89, 165
+  orig: 89, 165
+  offset: 0, 0
+  index: -1
+hero-dying_25
+  rotate: false
+  xy: 184, 169
+  size: 89, 165
+  orig: 89, 165
+  offset: 0, 0
+  index: -1
+hero-dying_26
+  rotate: false
+  xy: 275, 169
+  size: 89, 165
+  orig: 89, 165
+  offset: 0, 0
+  index: -1
+hero-dying_27
+  rotate: false
+  xy: 366, 169
+  size: 89, 165
+  orig: 89, 165
+  offset: 0, 0
+  index: -1
+hero-dying_28
+  rotate: false
+  xy: 457, 169
+  size: 89, 165
+  orig: 89, 165
+  offset: 0, 0
+  index: -1
+hero-dying_29
+  rotate: false
+  xy: 548, 169
+  size: 89, 165
+  orig: 89, 165
+  offset: 0, 0
+  index: -1
+hero-dying_30
+  rotate: false
+  xy: 639, 169
+  size: 89, 165
+  orig: 89, 165
+  offset: 0, 0
+  index: -1
