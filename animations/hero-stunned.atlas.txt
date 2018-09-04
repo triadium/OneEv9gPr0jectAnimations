@@ -6,412 +6,412 @@ filter: Linear,Linear
 repeat: none
 hero-stunned_0
   rotate: false
-  xy: 2, 2
+  xy: 4, 4
   size: 133, 165
   orig: 133, 165
   offset: 0, 0
   index: -1
 hero-stunned_57
   rotate: false
-  xy: 2, 2
+  xy: 4, 4
   size: 133, 165
   orig: 133, 165
   offset: 0, 0
   index: -1
 hero-stunned_1
   rotate: false
-  xy: 137, 2
+  xy: 141, 4
   size: 133, 165
   orig: 133, 165
   offset: 0, 0
   index: -1
 hero-stunned_10
   rotate: false
-  xy: 407, 169
+  xy: 415, 173
   size: 133, 165
   orig: 133, 165
   offset: 0, 0
   index: -1
 hero-stunned_11
   rotate: false
-  xy: 542, 169
+  xy: 552, 173
   size: 133, 165
   orig: 133, 165
   offset: 0, 0
   index: -1
 hero-stunned_12
   rotate: false
-  xy: 677, 169
+  xy: 689, 173
   size: 133, 165
   orig: 133, 165
   offset: 0, 0
   index: -1
 hero-stunned_13
   rotate: false
-  xy: 812, 169
+  xy: 826, 173
   size: 133, 165
   orig: 133, 165
   offset: 0, 0
   index: -1
 hero-stunned_14
   rotate: false
-  xy: 2, 336
+  xy: 4, 342
   size: 133, 165
   orig: 133, 165
   offset: 0, 0
   index: -1
 hero-stunned_15
   rotate: false
-  xy: 137, 336
+  xy: 141, 342
   size: 133, 165
   orig: 133, 165
   offset: 0, 0
   index: -1
 hero-stunned_16
   rotate: false
-  xy: 272, 336
+  xy: 278, 342
   size: 133, 165
   orig: 133, 165
   offset: 0, 0
   index: -1
 hero-stunned_17
   rotate: false
-  xy: 407, 336
+  xy: 415, 342
   size: 133, 165
   orig: 133, 165
   offset: 0, 0
   index: -1
 hero-stunned_18
   rotate: false
-  xy: 542, 336
+  xy: 552, 342
   size: 133, 165
   orig: 133, 165
   offset: 0, 0
   index: -1
 hero-stunned_19
   rotate: false
-  xy: 677, 336
+  xy: 689, 342
   size: 133, 165
   orig: 133, 165
   offset: 0, 0
   index: -1
 hero-stunned_2
   rotate: false
-  xy: 272, 2
+  xy: 278, 4
   size: 133, 165
   orig: 133, 165
   offset: 0, 0
   index: -1
 hero-stunned_20
   rotate: false
-  xy: 812, 336
+  xy: 826, 342
   size: 133, 165
   orig: 133, 165
   offset: 0, 0
   index: -1
 hero-stunned_21
   rotate: false
-  xy: 2, 503
+  xy: 4, 511
   size: 133, 165
   orig: 133, 165
   offset: 0, 0
   index: -1
 hero-stunned_22
   rotate: false
-  xy: 137, 503
+  xy: 141, 511
   size: 133, 165
   orig: 133, 165
   offset: 0, 0
   index: -1
 hero-stunned_23
   rotate: false
-  xy: 272, 503
+  xy: 278, 511
   size: 133, 165
   orig: 133, 165
   offset: 0, 0
   index: -1
 hero-stunned_24
   rotate: false
-  xy: 407, 503
+  xy: 415, 511
   size: 133, 165
   orig: 133, 165
   offset: 0, 0
   index: -1
 hero-stunned_25
   rotate: false
-  xy: 542, 503
+  xy: 552, 511
   size: 133, 165
   orig: 133, 165
   offset: 0, 0
   index: -1
 hero-stunned_26
   rotate: false
-  xy: 677, 503
+  xy: 689, 511
   size: 133, 165
   orig: 133, 165
   offset: 0, 0
   index: -1
 hero-stunned_27
   rotate: false
-  xy: 812, 503
+  xy: 826, 511
   size: 133, 165
   orig: 133, 165
   offset: 0, 0
   index: -1
 hero-stunned_28
   rotate: false
-  xy: 2, 670
+  xy: 4, 680
   size: 133, 165
   orig: 133, 165
   offset: 0, 0
   index: -1
 hero-stunned_29
   rotate: false
-  xy: 137, 670
+  xy: 141, 680
   size: 133, 165
   orig: 133, 165
   offset: 0, 0
   index: -1
 hero-stunned_3
   rotate: false
-  xy: 407, 2
+  xy: 415, 4
   size: 133, 165
   orig: 133, 165
   offset: 0, 0
   index: -1
 hero-stunned_30
   rotate: false
-  xy: 272, 670
+  xy: 278, 680
   size: 133, 165
   orig: 133, 165
   offset: 0, 0
   index: -1
 hero-stunned_31
   rotate: false
-  xy: 407, 670
+  xy: 415, 680
   size: 133, 165
   orig: 133, 165
   offset: 0, 0
   index: -1
 hero-stunned_32
   rotate: false
-  xy: 542, 670
+  xy: 552, 680
   size: 133, 165
   orig: 133, 165
   offset: 0, 0
   index: -1
 hero-stunned_33
   rotate: false
-  xy: 677, 670
+  xy: 689, 680
   size: 133, 165
   orig: 133, 165
   offset: 0, 0
   index: -1
 hero-stunned_34
   rotate: false
-  xy: 812, 670
+  xy: 826, 680
   size: 133, 165
   orig: 133, 165
   offset: 0, 0
   index: -1
 hero-stunned_35
   rotate: false
-  xy: 2, 837
+  xy: 4, 849
   size: 133, 165
   orig: 133, 165
   offset: 0, 0
   index: -1
 hero-stunned_36
   rotate: false
-  xy: 137, 837
+  xy: 141, 849
   size: 133, 165
   orig: 133, 165
   offset: 0, 0
   index: -1
 hero-stunned_37
   rotate: false
-  xy: 272, 837
+  xy: 278, 849
   size: 133, 165
   orig: 133, 165
   offset: 0, 0
   index: -1
 hero-stunned_38
   rotate: false
-  xy: 407, 837
+  xy: 415, 849
   size: 133, 165
   orig: 133, 165
   offset: 0, 0
   index: -1
 hero-stunned_39
   rotate: false
-  xy: 542, 837
+  xy: 552, 849
   size: 133, 165
   orig: 133, 165
   offset: 0, 0
   index: -1
 hero-stunned_4
   rotate: false
-  xy: 542, 2
+  xy: 552, 4
   size: 133, 165
   orig: 133, 165
   offset: 0, 0
   index: -1
 hero-stunned_40
   rotate: false
-  xy: 677, 837
+  xy: 689, 849
   size: 133, 165
   orig: 133, 165
   offset: 0, 0
   index: -1
 hero-stunned_41
   rotate: false
-  xy: 812, 837
+  xy: 826, 849
   size: 133, 165
   orig: 133, 165
   offset: 0, 0
   index: -1
 hero-stunned_5
   rotate: false
-  xy: 677, 2
+  xy: 689, 4
   size: 133, 165
   orig: 133, 165
   offset: 0, 0
   index: -1
 hero-stunned_6
   rotate: false
-  xy: 812, 2
+  xy: 826, 4
   size: 133, 165
   orig: 133, 165
   offset: 0, 0
   index: -1
 hero-stunned_7
   rotate: false
-  xy: 2, 169
+  xy: 4, 173
   size: 133, 165
   orig: 133, 165
   offset: 0, 0
   index: -1
 hero-stunned_8
   rotate: false
-  xy: 137, 169
+  xy: 141, 173
   size: 133, 165
   orig: 133, 165
   offset: 0, 0
   index: -1
 hero-stunned_9
   rotate: false
-  xy: 272, 169
+  xy: 278, 173
   size: 133, 165
   orig: 133, 165
   offset: 0, 0
   index: -1
 
 hero-stunned2.png
-size: 1024,512
+size: 1024,1024
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 hero-stunned_42
   rotate: false
-  xy: 2, 2
+  xy: 4, 4
   size: 133, 165
   orig: 133, 165
   offset: 0, 0
   index: -1
 hero-stunned_43
   rotate: false
-  xy: 137, 2
+  xy: 141, 4
   size: 133, 165
   orig: 133, 165
   offset: 0, 0
   index: -1
 hero-stunned_44
   rotate: false
-  xy: 272, 2
+  xy: 278, 4
   size: 133, 165
   orig: 133, 165
   offset: 0, 0
   index: -1
 hero-stunned_45
   rotate: false
-  xy: 407, 2
+  xy: 415, 4
   size: 133, 165
   orig: 133, 165
   offset: 0, 0
   index: -1
 hero-stunned_46
   rotate: false
-  xy: 542, 2
+  xy: 552, 4
   size: 133, 165
   orig: 133, 165
   offset: 0, 0
   index: -1
 hero-stunned_47
   rotate: false
-  xy: 677, 2
+  xy: 689, 4
   size: 133, 165
   orig: 133, 165
   offset: 0, 0
   index: -1
 hero-stunned_48
   rotate: false
-  xy: 812, 2
+  xy: 826, 4
   size: 133, 165
   orig: 133, 165
   offset: 0, 0
   index: -1
 hero-stunned_49
   rotate: false
-  xy: 2, 169
+  xy: 4, 173
   size: 133, 165
   orig: 133, 165
   offset: 0, 0
   index: -1
 hero-stunned_50
   rotate: false
-  xy: 137, 169
+  xy: 141, 173
   size: 133, 165
   orig: 133, 165
   offset: 0, 0
   index: -1
 hero-stunned_51
   rotate: false
-  xy: 272, 169
+  xy: 278, 173
   size: 133, 165
   orig: 133, 165
   offset: 0, 0
   index: -1
 hero-stunned_52
   rotate: false
-  xy: 407, 169
+  xy: 415, 173
   size: 133, 165
   orig: 133, 165
   offset: 0, 0
   index: -1
 hero-stunned_53
   rotate: false
-  xy: 542, 169
+  xy: 552, 173
   size: 133, 165
   orig: 133, 165
   offset: 0, 0
   index: -1
 hero-stunned_54
   rotate: false
-  xy: 677, 169
+  xy: 689, 173
   size: 133, 165
   orig: 133, 165
   offset: 0, 0
   index: -1
 hero-stunned_55
   rotate: false
-  xy: 812, 169
+  xy: 826, 173
   size: 133, 165
   orig: 133, 165
   offset: 0, 0
   index: -1
 hero-stunned_56
   rotate: false
-  xy: 2, 336
+  xy: 4, 342
   size: 133, 165
   orig: 133, 165
   offset: 0, 0

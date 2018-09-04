@@ -6,182 +6,182 @@ filter: Linear,Linear
 repeat: none
 hero-kicks_0
   rotate: false
-  xy: 2, 2
+  xy: 4, 4
   size: 138, 164
   orig: 138, 164
   offset: 0, 0
   index: -1
 hero-kicks_25
   rotate: false
-  xy: 2, 2
+  xy: 4, 4
   size: 138, 164
   orig: 138, 164
   offset: 0, 0
   index: -1
 hero-kicks_1
   rotate: false
-  xy: 142, 2
+  xy: 146, 4
   size: 138, 164
   orig: 138, 164
   offset: 0, 0
   index: -1
 hero-kicks_10
   rotate: false
-  xy: 422, 168
+  xy: 430, 172
   size: 138, 164
   orig: 138, 164
   offset: 0, 0
   index: -1
 hero-kicks_11
   rotate: false
-  xy: 562, 168
+  xy: 572, 172
   size: 138, 164
   orig: 138, 164
   offset: 0, 0
   index: -1
 hero-kicks_12
   rotate: false
-  xy: 702, 168
+  xy: 714, 172
   size: 138, 164
   orig: 138, 164
   offset: 0, 0
   index: -1
 hero-kicks_13
   rotate: false
-  xy: 842, 168
+  xy: 856, 172
   size: 138, 164
   orig: 138, 164
   offset: 0, 0
   index: -1
 hero-kicks_14
   rotate: false
-  xy: 2, 334
+  xy: 4, 340
   size: 138, 164
   orig: 138, 164
   offset: 0, 0
   index: -1
 hero-kicks_15
   rotate: false
-  xy: 142, 334
+  xy: 146, 340
   size: 138, 164
   orig: 138, 164
   offset: 0, 0
   index: -1
 hero-kicks_16
   rotate: false
-  xy: 282, 334
+  xy: 288, 340
   size: 138, 164
   orig: 138, 164
   offset: 0, 0
   index: -1
 hero-kicks_17
   rotate: false
-  xy: 422, 334
+  xy: 430, 340
   size: 138, 164
   orig: 138, 164
   offset: 0, 0
   index: -1
 hero-kicks_18
   rotate: false
-  xy: 562, 334
+  xy: 572, 340
   size: 138, 164
   orig: 138, 164
   offset: 0, 0
   index: -1
 hero-kicks_19
   rotate: false
-  xy: 702, 334
+  xy: 714, 340
   size: 138, 164
   orig: 138, 164
   offset: 0, 0
   index: -1
 hero-kicks_2
   rotate: false
-  xy: 282, 2
+  xy: 288, 4
   size: 138, 164
   orig: 138, 164
   offset: 0, 0
   index: -1
 hero-kicks_20
   rotate: false
-  xy: 842, 334
+  xy: 856, 340
   size: 138, 164
   orig: 138, 164
   offset: 0, 0
   index: -1
 hero-kicks_21
   rotate: false
-  xy: 2, 500
+  xy: 4, 508
   size: 138, 164
   orig: 138, 164
   offset: 0, 0
   index: -1
 hero-kicks_22
   rotate: false
-  xy: 142, 500
+  xy: 146, 508
   size: 138, 164
   orig: 138, 164
   offset: 0, 0
   index: -1
 hero-kicks_23
   rotate: false
-  xy: 282, 500
+  xy: 288, 508
   size: 138, 164
   orig: 138, 164
   offset: 0, 0
   index: -1
 hero-kicks_24
   rotate: false
-  xy: 422, 500
+  xy: 430, 508
   size: 138, 164
   orig: 138, 164
   offset: 0, 0
   index: -1
 hero-kicks_3
   rotate: false
-  xy: 422, 2
+  xy: 430, 4
   size: 138, 164
   orig: 138, 164
   offset: 0, 0
   index: -1
 hero-kicks_4
   rotate: false
-  xy: 562, 2
+  xy: 572, 4
   size: 138, 164
   orig: 138, 164
   offset: 0, 0
   index: -1
 hero-kicks_5
   rotate: false
-  xy: 702, 2
+  xy: 714, 4
   size: 138, 164
   orig: 138, 164
   offset: 0, 0
   index: -1
 hero-kicks_6
   rotate: false
-  xy: 842, 2
+  xy: 856, 4
   size: 138, 164
   orig: 138, 164
   offset: 0, 0
   index: -1
 hero-kicks_7
   rotate: false
-  xy: 2, 168
+  xy: 4, 172
   size: 138, 164
   orig: 138, 164
   offset: 0, 0
   index: -1
 hero-kicks_8
   rotate: false
-  xy: 142, 168
+  xy: 146, 172
   size: 138, 164
   orig: 138, 164
   offset: 0, 0
   index: -1
 hero-kicks_9
   rotate: false
-  xy: 282, 168
+  xy: 288, 172
   size: 138, 164
   orig: 138, 164
   offset: 0, 0

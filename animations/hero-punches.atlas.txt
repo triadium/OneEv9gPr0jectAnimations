@@ -1,271 +1,271 @@
 
 hero-punches.png
-size: 1024,512
+size: 1024,1024
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 hero-punches_0
   rotate: false
-  xy: 2, 2
+  xy: 4, 4
   size: 109, 161
   orig: 109, 161
   offset: 0, 0
   index: -1
 hero-punches_1
   rotate: false
-  xy: 113, 2
+  xy: 117, 4
   size: 109, 161
   orig: 109, 161
   offset: 0, 0
   index: -1
 hero-punches_16
   rotate: false
-  xy: 668, 2
+  xy: 682, 4
   size: 109, 161
   orig: 109, 161
   offset: 0, 0
   index: -1
 hero-punches_17
   rotate: false
-  xy: 779, 2
+  xy: 795, 4
   size: 109, 161
   orig: 109, 161
   offset: 0, 0
   index: -1
 hero-punches_18
   rotate: false
-  xy: 890, 2
+  xy: 908, 4
   size: 109, 161
   orig: 109, 161
   offset: 0, 0
   index: -1
 hero-punches_19
   rotate: false
-  xy: 2, 165
+  xy: 4, 169
   size: 109, 161
   orig: 109, 161
   offset: 0, 0
   index: -1
 hero-punches_2
   rotate: false
-  xy: 224, 2
+  xy: 230, 4
   size: 109, 161
   orig: 109, 161
   offset: 0, 0
   index: -1
 hero-punches_20
   rotate: false
-  xy: 113, 165
+  xy: 117, 169
   size: 109, 161
   orig: 109, 161
   offset: 0, 0
   index: -1
 hero-punches_21
   rotate: false
-  xy: 224, 165
+  xy: 230, 169
   size: 109, 161
   orig: 109, 161
   offset: 0, 0
   index: -1
 hero-punches_22
   rotate: false
-  xy: 335, 165
+  xy: 343, 169
   size: 109, 161
   orig: 109, 161
   offset: 0, 0
   index: -1
 hero-punches_23
   rotate: false
-  xy: 446, 165
+  xy: 456, 169
   size: 109, 161
   orig: 109, 161
   offset: 0, 0
   index: -1
 hero-punches_24
   rotate: false
-  xy: 557, 165
+  xy: 569, 169
   size: 109, 161
   orig: 109, 161
   offset: 0, 0
   index: -1
 hero-punches_25
   rotate: false
-  xy: 668, 165
+  xy: 682, 169
   size: 109, 161
   orig: 109, 161
   offset: 0, 0
   index: -1
 hero-punches_26
   rotate: false
-  xy: 668, 165
+  xy: 682, 169
   size: 109, 161
   orig: 109, 161
   offset: 0, 0
   index: -1
 hero-punches_27
   rotate: false
-  xy: 668, 165
+  xy: 682, 169
   size: 109, 161
   orig: 109, 161
   offset: 0, 0
   index: -1
 hero-punches_28
   rotate: false
-  xy: 668, 165
+  xy: 682, 169
   size: 109, 161
   orig: 109, 161
   offset: 0, 0
   index: -1
 hero-punches_29
   rotate: false
-  xy: 668, 165
+  xy: 682, 169
   size: 109, 161
   orig: 109, 161
   offset: 0, 0
   index: -1
 hero-punches_30
   rotate: false
-  xy: 668, 165
+  xy: 682, 169
   size: 109, 161
   orig: 109, 161
   offset: 0, 0
   index: -1
 hero-punches_31
   rotate: false
-  xy: 668, 165
+  xy: 682, 169
   size: 109, 161
   orig: 109, 161
   offset: 0, 0
   index: -1
 hero-punches_32
   rotate: false
-  xy: 668, 165
+  xy: 682, 169
   size: 109, 161
   orig: 109, 161
   offset: 0, 0
   index: -1
 hero-punches_33
   rotate: false
-  xy: 668, 165
+  xy: 682, 169
   size: 109, 161
   orig: 109, 161
   offset: 0, 0
   index: -1
 hero-punches_34
   rotate: false
-  xy: 668, 165
+  xy: 682, 169
   size: 109, 161
   orig: 109, 161
   offset: 0, 0
   index: -1
 hero-punches_35
   rotate: false
-  xy: 668, 165
+  xy: 682, 169
   size: 109, 161
   orig: 109, 161
   offset: 0, 0
   index: -1
 hero-punches_36
   rotate: false
-  xy: 668, 165
+  xy: 682, 169
   size: 109, 161
   orig: 109, 161
   offset: 0, 0
   index: -1
 hero-punches_37
   rotate: false
-  xy: 668, 165
+  xy: 682, 169
   size: 109, 161
   orig: 109, 161
   offset: 0, 0
   index: -1
 hero-punches_3
   rotate: false
-  xy: 335, 2
+  xy: 343, 4
   size: 109, 161
   orig: 109, 161
   offset: 0, 0
   index: -1
 hero-punches_4
   rotate: false
-  xy: 446, 2
+  xy: 456, 4
   size: 109, 161
   orig: 109, 161
   offset: 0, 0
   index: -1
 hero-punches_5
   rotate: false
-  xy: 557, 2
+  xy: 569, 4
   size: 109, 161
   orig: 109, 161
   offset: 0, 0
   index: -1
 hero-punches_10
   rotate: false
-  xy: 557, 2
+  xy: 569, 4
   size: 109, 161
   orig: 109, 161
   offset: 0, 0
   index: -1
 hero-punches_11
   rotate: false
-  xy: 557, 2
+  xy: 569, 4
   size: 109, 161
   orig: 109, 161
   offset: 0, 0
   index: -1
 hero-punches_12
   rotate: false
-  xy: 557, 2
+  xy: 569, 4
   size: 109, 161
   orig: 109, 161
   offset: 0, 0
   index: -1
 hero-punches_13
   rotate: false
-  xy: 557, 2
+  xy: 569, 4
   size: 109, 161
   orig: 109, 161
   offset: 0, 0
   index: -1
 hero-punches_14
   rotate: false
-  xy: 557, 2
+  xy: 569, 4
   size: 109, 161
   orig: 109, 161
   offset: 0, 0
   index: -1
 hero-punches_15
   rotate: false
-  xy: 557, 2
+  xy: 569, 4
   size: 109, 161
   orig: 109, 161
   offset: 0, 0
   index: -1
 hero-punches_6
   rotate: false
-  xy: 557, 2
+  xy: 569, 4
   size: 109, 161
   orig: 109, 161
   offset: 0, 0
   index: -1
 hero-punches_7
   rotate: false
-  xy: 557, 2
+  xy: 569, 4
   size: 109, 161
   orig: 109, 161
   offset: 0, 0
   index: -1
 hero-punches_8
   rotate: false
-  xy: 557, 2
+  xy: 569, 4
   size: 109, 161
   orig: 109, 161
   offset: 0, 0
   index: -1
 hero-punches_9
   rotate: false
-  xy: 557, 2
+  xy: 569, 4
   size: 109, 161
   orig: 109, 161
   offset: 0, 0
